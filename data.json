@@ -1,0 +1,102 @@
+{
+    "playersInfo": [
+      { "name": "", "score": 0 },
+      { "name": "", "score": 0 }
+    ],
+    "quizQuestions": [
+      [
+        {
+          "question": "What is the capital of France?",
+          "options": [
+            { "text": "Paris", "isCorrect": true },
+            { "text": "Berlin", "isCorrect": false },
+            { "text": "Rome", "isCorrect": false },
+            { "text": "Madrid", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": [
+            { "text": "Venus", "isCorrect": false },
+            { "text": "Mars", "isCorrect": true },
+            { "text": "Jupiter", "isCorrect": false },
+            { "text": "Saturn", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What is the largest mammal in the world?",
+          "options": [
+            { "text": "Elephant", "isCorrect": false },
+            { "text": "Blue Whale", "isCorrect": true },
+            { "text": "Great White Shark", "isCorrect": false },
+            { "text": "Giraffe", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "options": [
+            { "text": "William Shakespeare", "isCorrect": true },
+            { "text": "Jane Austen", "isCorrect": false },
+            { "text": "Charles Dickens", "isCorrect": false },
+            { "text": "Mark Twain", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What is the smallest country in the world?",
+          "options": [
+            { "text": "Vatican City", "isCorrect": true },
+            { "text": "Monaco", "isCorrect": false },
+            { "text": "San Marino", "isCorrect": false },
+            { "text": "Liechtenstein", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which element has the chemical symbol 'O'?",
+          "options": [
+            { "text": "Gold", "isCorrect": false },
+            { "text": "Oxygen", "isCorrect": true },
+            { "text": "Osmium", "isCorrect": false },
+            { "text": "Oganesson", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "In what year did World War II end?",
+          "options": [
+            { "text": "1945", "isCorrect": true },
+            { "text": "1939", "isCorrect": false },
+            { "text": "1918", "isCorrect": false },
+            { "text": "1950", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which famous scientist developed the theory of general relativity?",
+          "options": [
+            { "text": "Isaac Newton", "isCorrect": false },
+            { "text": "Albert Einstein", "isCorrect": true },
+            { "text": "Nikola Tesla", "isCorrect": false },
+            { "text": "Galileo Galilei", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What is the hardest natural substance on Earth?",
+          "options": [
+            { "text": "Gold", "isCorrect": false },
+            { "text": "Iron", "isCorrect": false },
+            { "text": "Diamond", "isCorrect": true },
+            { "text": "Quartz", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What is the longest river in the world?",
+          "options": [
+            { "text": "Amazon River", "isCorrect": false },
+            { "text": "Nile River", "isCorrect": true },
+            { "text": "Yangtze River", "isCorrect": false },
+            { "text": "Mississippi River", "isCorrect": false }
+          ]
+        }
+      ]
+      
+    ]
+  }
+  
